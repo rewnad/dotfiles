@@ -1,7 +1,7 @@
 """ Theme
 syntax enable
 set background=dark
-colorscheme seoul256
+colorscheme garbage-oracle
 set termguicolors
 set guicursor= " Fix cursor issue in terminator
 set number " turn on line numbers
