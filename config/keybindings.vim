@@ -11,3 +11,6 @@ nnoremap <Leader>z :Limelight!!<cr>
 nmap <Leader>l <Plug>(Limelight)
 xmap <Leader>l <Plug>(Limelight)
 
+
+""" Ale Fix
+nmap <Leader>f :ALEFix

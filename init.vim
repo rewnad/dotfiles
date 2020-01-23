@@ -12,12 +12,14 @@ Plug 'tpope/vim-surround' " All about surrounding
 Plug 'scrooloose/nerdtree'
 Plug 'mhinz/vim-startify' " Start screen
 Plug 'w0rp/ale' " Linting
+Plug 'fatih/vim-go' " Go
 Plug 'pangloss/vim-javascript' " Javascript syntax highlighting and improved indentation
 Plug 'mxw/vim-jsx' "JSX Syntax highlighting
-Plug 'mattn/emmet-vim' " Easier JSX
 Plug 'prettier/vim-prettier', {
   \ 'do': 'yarn install',
   \ 'for': ['javascript', 'typescript', 'css', 'less', 'scss', 'json', 'graphql', 'markdown', 'vue', 'yaml', 'html'] }
+Plug 'tpope/vim-fugitive'
+Plug 'ludovicchabant/vim-gutentags'
 
 """ Color schemes
 Plug 'drewtempelmeyer/palenight.vim'
